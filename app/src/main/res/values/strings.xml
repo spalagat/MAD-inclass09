@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inclass09</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="password">Password</string>
+    <string name="confirmPwd">Confirm Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="createNew">Create New Contact</string>
+    <string name="fname" />
+    <string name="number" />
+    <string name="email1" />
+</resources>
